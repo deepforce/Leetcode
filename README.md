@@ -25,4 +25,5 @@ LeetCode
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) |[C++](./C++/283.Move_Zeroes.md) | Easy |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |[C++](./C++/4.Median_of_Two_Sorted_Arrays.md) | Hard |
 | 5 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) |[C++](./C++/1130.Minimum_Cost_Tree_From_Leaf_Values.md) | Medium |
+| 6 | [Stone Game](https://leetcode.com/problems/stone-game/) |[C++](./C++/877.Stone_Game.md) | Medium |
 
