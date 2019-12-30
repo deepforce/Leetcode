@@ -30,4 +30,5 @@ LeetCode
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) |[C++](./C++/1140.Stone_Game_II.md) | Medium |
 | 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) |[C++](./C++/931.Minimum_Falling_Path_Sum.md) | Medium |
 | 1227 | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/) |[C++](./C++/1227.Airplane_Seat_Assignment_Probability.md) | Medium |
+| 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) |[C++](./C++/647.Palindromic_Substrings.md) | Medium |
 
